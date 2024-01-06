@@ -22,18 +22,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  
-  [Express](https://expressjs.com)
 
-  [Firebase](https://firebase.google.com/)
- 
+  [Firebase](https://firebase.google.com/) 
   [Git](https://git-scm.com/)
- 
   [Node](https://nodejs.org)
- 
   [Nuxt](https://nuxtjs.org/)
-
   [TailwindCss](https://tailwindcss.com/)
-
   [Vue](https://vuejs.org/)
 </p>
