@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **snth career page**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Salesforce**
 
-- 💬 Ask me about **Vue, Nuxt and TailwindCss**
+- 💬 Ask me about **Nuxt, Firebase and TailwindCss**
 
 - 📫 How to reach me **tarunmarineni@gmail.com**
 
@@ -22,10 +22,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-  [Firebase](https://firebase.google.com/) 
-  [Git](https://git-scm.com/)
-  [Node](https://nodejs.org)
-  [Nuxt](https://nuxtjs.org/)
-  [TailwindCss](https://tailwindcss.com/)
-  [Vue](https://vuejs.org/)
+  [Firebase](https://firebase.google.com/)  | 
+  [Git](https://git-scm.com/) |
+  [Node](https://nodejs.org) |
+  [Nuxt](https://nuxtjs.org/) |
+  [TailwindCss](https://tailwindcss.com/) |
+  [Vue](https://vuejs.org/) 
 </p>
