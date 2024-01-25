@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tarunmarineni@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GxYaGfRJ7dwTq_xYq5bzbKzPOyg_CjWq/view?usp=sharing](https://drive.google.com/file/d/1-t7lLlZlB9DbxeLowJ3My3PBQJVUfyDj/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1GxYaGfRJ7dwTq_xYq5bzbKzPOyg_CjWq/view?usp=sharing](https://drive.google.com/file/d/1-t7lLlZlB9DbxeLowJ3My3PBQJVUfyDj/view?usp=drive_link](https://drive.google.com/file/d/1DGHSG84ITpf0iKPMRRmH45uNopkchrjA/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tarun-marineni-a6a54323b/" target="blank">
