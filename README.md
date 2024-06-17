@@ -1,31 +1,77 @@
-<h1 align="center">Hi 👋, I'm Tarun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Tarun Kumar Marineni
 
-<img align="right" alt="Coder GIF" height=350 width=450 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+**Full-Stack Web Developer**
 
-- 🔭 I’m currently working on **Salesforce Project**
+[+91 6305661449](tel:+916305661449) | [tarunmarineni@gmail.com](mailto:tarunmarineni@gmail.com) | [GitHub Profile](https://github.com/TarunMarineni) | [LinkedIn Profile](https://www.linkedin.com/in/tarun-kumar-marineni-a6a54323b/)
 
-- 🌱 I’m currently learning **Salesforce**
+---
 
-- 💬 Ask me about **Nuxt3, Firebase, TailwindCss and Salesforce**
+## Professional Summary
 
-- 📫 How to reach me **tarunmarineni@gmail.com**
+Passionate Salesforce Developer eager to innovate and drive success in impactful projects. Committed to continuous learning and bringing fresh ideas to innovative companies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/tarun-kumar-marineni-a6a54323b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarun-marineni-a6a54323b/" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+## Skills
 
-  [Firebase](https://firebase.google.com/)  | 
-  [Git](https://git-scm.com/) |
-  [Node](https://nodejs.org) |
-  [Nuxt](https://nuxtjs.org/) |
-  [TailwindCss](https://tailwindcss.com/) |
-  [Vue](https://vuejs.org/) |
-  [SFDC](https://salesforce.com/)
-</p>
+- Apex Development
+- Integrations
+- Deployment
+- SOQL/SOSL
+- AURA Components
+- Vue.js
+- Data Migration
+- Process Automation
+- Firebase
+
+---
+
+## Work Experience
+
+**Full Stack Developer Internship**  
+*Xplorebits Technologies*  
+Mar 2023 - Sep 2023
+
+- Resolved bugs to ensure smooth application functionality.
+- Added new features to enhance the project's capabilities.
+- Conducted testing and quality assurance for bug fixes and new features.
+
+---
+
+## Projects
+
+**TODO Application, Full Stack Developer**
+
+- Led full-stack development using Vuejs with Nuxt and Tailwind CSS.
+- Managed backend with Firebase as the database for the Comprehensive TODO Application.
+- Ensured robust user authentication and data integrity while maintaining high-security standards.
+
+**Recruitment Project (Trailhead)**
+
+- Successfully completed all modules and challenges on Trailhead related to the project.
+- Gained hands-on experience in Salesforce administration and development through practical application in a real-world scenario.
+
+---
+
+## Education
+
+**Bachelor of Science (Computer Science)**  
+Sri Sai Baba National Degree College, Anantapur, 2023, CGPA 8.5
+
+**Higher Secondary**  
+Narayana Junior College, Hyderabad, 2020, CGPA 9.5
+
+**High School**  
+Nava Bharath High School, Anantapur, 2018, CGPA 9.0
+
+---
+
+## Additional Information
+
+- **Languages**: Telugu, Hindi, English
+- **Certifications**: Full Stack Developer Internship, Salesforce Developer Virtual Internship
+- **Awards/Activities**: Shortlisted in South Zone Inter University Basketball
+
+---
+
+**Contact**: [tarunmarineni@gmail.com](mailto:tarunmarineni@gmail.com)
