@@ -2,13 +2,16 @@
 
 **Full-Stack Web Developer**
 
-[+91 6305661449](tel:+916305661449) | [tarunmarineni@gmail.com](mailto:tarunmarineni@gmail.com) | [GitHub Profile](https://github.com/TarunMarineni) | [LinkedIn Profile](https://www.linkedin.com/in/tarun-kumar-marineni-a6a54323b/)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%206305661449-blue)](tel:+916305661449) 
+[![Email](https://img.shields.io/badge/Email-tarunmarineni%40gmail.com-blue)](mailto:tarunmarineni@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/TarunMarineni) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tarun-kumar-marineni-a6a54323b/)
 
 ---
 
 ## Professional Summary
 
-Passionate Salesforce Developer eager to innovate and drive success in impactful projects. Committed to continuous learning and bringing fresh ideas to innovative companies.
+Full-Stack Web Developer and Salesforce expertise. Passionate about delivering efficient and innovative solutions.
 
 ---
 
@@ -20,42 +23,38 @@ Passionate Salesforce Developer eager to innovate and drive success in impactful
 - SOQL/SOSL
 - AURA Components
 - Vue.js
-- Data Migration
-- Process Automation
 - Firebase
+- Process Automation
 
 ---
 
-## Work Experience
+## Experience
 
-**Full Stack Developer Internship**  
+**Full Stack Developer Intern**  
 *Xplorebits Technologies*  
 Mar 2023 - Sep 2023
 
-- Resolved bugs to ensure smooth application functionality.
-- Added new features to enhance the project's capabilities.
-- Conducted testing and quality assurance for bug fixes and new features.
+- Fixed bugs and enhanced application features.
+- Conducted testing and quality assurance.
 
 ---
 
 ## Projects
 
-**TODO Application, Full Stack Developer**
+**TODO Application**
 
-- Led full-stack development using Vuejs with Nuxt and Tailwind CSS.
-- Managed backend with Firebase as the database for the Comprehensive TODO Application.
-- Ensured robust user authentication and data integrity while maintaining high-security standards.
+- Developed with Vue.js, Nuxt, Tailwind CSS, and Firebase.
+- Ensured secure authentication and data integrity.
 
 **Recruitment Project (Trailhead)**
 
-- Successfully completed all modules and challenges on Trailhead related to the project.
-- Gained hands-on experience in Salesforce administration and development through practical application in a real-world scenario.
+- Completed Salesforce modules and challenges on Trailhead.
 
 ---
 
 ## Education
 
-**Bachelor of Science (Computer Science)**  
+**B.Sc. in Computer Science**  
 Sri Sai Baba National Degree College, Anantapur, 2023, CGPA 8.5
 
 **Higher Secondary**  
@@ -70,7 +69,7 @@ Nava Bharath High School, Anantapur, 2018, CGPA 9.0
 
 - **Languages**: Telugu, Hindi, English
 - **Certifications**: Full Stack Developer Internship, Salesforce Developer Virtual Internship
-- **Awards/Activities**: Shortlisted in South Zone Inter University Basketball
+- **Awards**: South Zone Inter University Basketball (Shortlisted)
 
 ---
 
