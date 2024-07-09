@@ -1,6 +1,6 @@
 # Tarun Kumar Marineni
 
-**Full-Stack Web Developer**
+**Full-Stack Web Developer | Salesforce Developer**
 
 [![Phone](https://img.shields.io/badge/Phone-%2B91%206305661449-blue)](tel:+916305661449) 
 [![Email](https://img.shields.io/badge/Email-tarunmarineni%40gmail.com-blue)](mailto:tarunmarineni@gmail.com) 
@@ -11,44 +11,21 @@
 
 ## Professional Summary
 
-Full-Stack Web Developer and Salesforce expertise. Passionate about delivering efficient and innovative solutions.
+Enthusiastic tech fresher eager to launch a career in innovative projects. Quick learner with a passion for applying new skills and bringing fresh perspectives to forward-thinking companies.
 
 ---
 
 ## Skills
 
-- Apex Development
-- Integrations
-- Deployment
-- SOQL/SOSL
-- AURA Components
-- Vue.js
-- Firebase
-- Process Automation
-
----
-
-## Experience
-
-**Full Stack Developer Intern**  
-*Xplorebits Technologies*  
-Mar 2023 - Sep 2023
-
-- Fixed bugs and enhanced application features.
-- Conducted testing and quality assurance.
-
----
-
-## Projects
-
-**TODO Application**
-
-- Developed with Vue.js, Nuxt, Tailwind CSS, and Firebase.
-- Ensured secure authentication and data integrity.
-
-**Recruitment Project (Trailhead)**
-
-- Completed Salesforce modules and challenges on Trailhead.
+- **Cloud Platforms:** Salesforce (Administration, Development, Configuration), Firebase
+- **Programming Languages:** Apex, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** Lightning Components (Aura & LWC), Vue.js, Nuxt3, Tailwind CSS
+- **Database & Query Languages:** SOQL, SOSL
+- **Web Development:** Responsive design, Single Page Applications (SPAs)
+- **Development Tools:** VS Code, Git, GitHub, Salesforce Developer Console
+- **Data Management:** Data migration, Import Wizard, Data Loader
+- **Business Tools:** Reports and dashboards creation, workflow automation
+- **Soft Skills:** Quick learner, problem-solving, attention to detail
 
 ---
 
@@ -62,14 +39,6 @@ Narayana Junior College, Hyderabad, 2020, CGPA 9.5
 
 **High School**  
 Nava Bharath High School, Anantapur, 2018, CGPA 9.0
-
----
-
-## Additional Information
-
-- **Languages**: Telugu, Hindi, English
-- **Certifications**: Full Stack Developer Internship, Salesforce Developer Virtual Internship
-- **Awards**: South Zone Inter University Basketball (Shortlisted)
 
 ---
 
