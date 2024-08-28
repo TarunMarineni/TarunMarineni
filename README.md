@@ -17,15 +17,13 @@ Enthusiastic tech fresher eager to launch a career in innovative projects. Quick
 
 ## Skills
 
-- **Cloud Platforms:** Salesforce (Administration, Development, Configuration), Firebase
-- **Programming Languages:** Apex, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Lightning Components (Aura & LWC), Vue.js, Nuxt3, Tailwind CSS
-- **Database & Query Languages:** SOQL, SOSL
-- **Web Development:** Responsive design, Single Page Applications (SPAs)
-- **Development Tools:** VS Code, Git, GitHub, Salesforce Developer Console
-- **Data Management:** Data migration, Import Wizard, Data Loader
-- **Business Tools:** Reports and dashboards creation, workflow automation
-- **Soft Skills:** Quick learner, problem-solving, attention to detail
+- **Frontend Development:** Vue.js (with Nuxt.js), React.js
+- **Backend Development:** Node.js, Express.js
+- **Database Managemen:** MongoDB, Firebase
+- **Web Development:** HTML, CSS, JavaScript, Tailwind CSS
+- **Salesforce CRM:** Configuration, Administration, Development
+- **Soft Skills**: Quick learner, Problem-solving, Attention to detail
+
 
 ---
 
